@@ -10,7 +10,7 @@ For each spread trade the summary should include:
 
 3.  The spread's max gain and loss, and the stock price(s) at which the spread breaks-even.
 
-4.  (optional) It would be a good idea to plot each spread in Excel.
+**You must turn in a spreadsheet which calculated max gain, max loss, and the break-even point for the following spreads**
 
 #### Spread:
 
