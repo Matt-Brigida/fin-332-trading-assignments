@@ -1,6 +1,6 @@
 ## FIN 376: TA 1
 
-#### Execute the following trades in your IB account, and upload a summary of your trades to the TA1 dropbox on D2L (indicating your IB account name and number).
+#### Execute the following trades in your IB account, and upload a summary of your trades to the TA1 dropbox on Blackboard (indicating your IB account name and number).
 
 For each trade the summary should include:
 
