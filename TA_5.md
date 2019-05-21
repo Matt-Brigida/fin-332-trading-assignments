@@ -22,6 +22,6 @@ For each spread trade the summary should include:
 
 4.  **Straddle**
 
-5.  **Bull Call Spread**
+<!---5.  **Bull Call Spread**-->
 
-6.  **Butterfly**
+<!---6.  **Butterfly**-->
