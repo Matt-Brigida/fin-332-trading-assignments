@@ -1,8 +1,8 @@
 ## FIN 332: Trading Assignment 6
 
-Complete the following trades in your IB account and answer the questions below.  Upload your answers to the BB dropbox.
+Complete the following trades in your IB account and answer the questions below.  Upload your answers to the BB dropbox.  All futures contracts in this trading assignment can be found on the [CME website](https://www.cmegroup.com/).
 
-1.  Sell 3000 barrels of oil for February 2020 delivery.  How many contracts is this (and for what ticker)?  What is the delivery point?
+1.  Sell 3000 barrels of crude oil (West Texas Intermediate) for February 2020 delivery.  How many contracts is this (and for what ticker)?  What is the delivery point?
 
 2.  Buy 2 Eurodollar futures contracts.  Will your contracts gain in value when LIBOR rates increase or decrease?
 
