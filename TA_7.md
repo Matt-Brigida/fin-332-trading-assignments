@@ -1,6 +1,8 @@
 ## Futures Spreads:  Hedging the Refining Margin and the Storage/Convenience Yield
 
-1.  Trade a 3:2:1 crack spread. [See here for example calculations.](http://complete-markets.com/wp-content/uploads/2015/09/crack_spread_web_page.html)
+[See these notes for crack and crush spread calculations.](https://financial-education.github.io/Futures_Spreads/)
+
+1.  Trade a 3:2:1 crack spread.
 2.  Trade a 1:1:1 crush spread.
 3.  Trade an NG calendar spread (where you are trading the storage spread and convenience yield.)
 
@@ -18,8 +20,4 @@ Similarly for the 1:1:1 crush spread you can either:
 - buy 1 soybean contract, and sell 1 soy meal and soy oil contract
 - sell 1 soybean contract, and buy 1 soy meal and soy oil contract
 
-Be sure to read this [post about the crush spread](http://complete-markets.com/2012/11/fin-376-trading-the-crush-spread/)
-
 For the calendar spread, you buy NG for delivery one month and sell NG for delivery in another month.
-
-[Original Post](http://complete-markets.com/2014/11/fin-376-trading-assignment-11172014/)
