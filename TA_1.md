@@ -12,6 +12,8 @@ For each trade the summary should include:
 
 4.  The transaction cost---broker fee and half the bid/ask spread.
 
+Calculation: Transaction Cost = Brokers Commission + 0.5 * (Ask - Bid) * (# shares)
+
 5.  The size of the position in dollars.
 
 #### Trades:
