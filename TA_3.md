@@ -10,7 +10,7 @@ For each trade the summary should include:
 
 3.  The execution (fill) price, and time (if applicable).
 
-4.  The contingent price (stop/limit).
+4.  The dollar amount of each position.
 
 #### Trades:
 
