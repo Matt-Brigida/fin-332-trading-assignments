@@ -1,6 +1,6 @@
 ## FIN 332: Trading Assignment 6
 
-Complete the following trades in your IB account and answer the questions below.  Upload your answers to the BB dropbox.  All futures contracts in this trading assignment can be found on the [CME website](https://www.cmegroup.com/).
+Complete the following trades in your IB account and report your trade prices and times.  Also answer the questions below.  Upload your answers to the BB dropbox.  All futures contracts in this trading assignment can be found on the [CME website](https://www.cmegroup.com/).
 
 1.  Sell 3000 barrels of crude oil (West Texas Intermediate) for February 2020 delivery.  How many contracts is this (and for what ticker)?  What is the delivery point?
 
