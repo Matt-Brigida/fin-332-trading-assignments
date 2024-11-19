@@ -4,7 +4,7 @@ Complete the following trades in your IB account and report your trade prices an
 
 1.  Sell 3000 barrels of crude oil (West Texas Intermediate) for February 2023 delivery.  How many contracts is this (and for what ticker)?  What is the delivery point?
 
-2.  Buy 2 Eurodollar futures contracts.  Will your contracts gain in value when LIBOR rates increase or decrease?
+2.  Buy 2 SOFR futures contracts.  Will your contracts gain in value when SOFR rates increase or decrease?
 
 3.  Trade (buy or sell) May 2023 Soybeans.  How many bushels have you traded?  When is the last trading day?
 
