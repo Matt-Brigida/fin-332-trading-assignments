@@ -1,4 +1,4 @@
-## FIN 376: TA 2
+## FIN 332: TA 2
 
 #### Execute the following trades in your IB account, and upload a summary of your trades to the TA1 dropbox on Blackboard (indicating your IB account name and number).
 

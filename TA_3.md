@@ -28,6 +28,26 @@ For each trade the summary should include:
 
 7.  Buy $50,000 worth of the Mexican stock market using an ETF. 
 
-8.  Short $10,000 worth of the euro (currency) using an ETF.
+8.  Short $10,000 worth of the euro (currency) using an ETF.  What does this fund actually hold?
 
 9.  Buy $5,000 worth of the Japanese yen via ETF.
+
+#### Currency ETFs and the Interest Differential
+
+A currency ETF holds deposits denominated in the foreign currency.  So your return has two parts: the change in the exchange rate, and the interest earned on the deposit, less the fund's expense ratio.  This second part is easy to forget and it is the reason spot and forward exchange rates differ.
+
+For the two currency ETFs you traded above, record:
+
+1.  The fund's expense ratio.
+
+2.  The spot exchange rate at the time of your trade (USD per euro, and yen per USD).
+
+3.  A current short-term interest rate for the US, the euro area, and Japan.  Use the 3-month government bill yield or the central bank's policy rate, and say which you used.
+
+Then answer:
+
+4.  Suppose you hold the euro ETF for one year and the spot exchange rate does not move at all.  Using the rates you looked up, approximately what is your return?  Is it positive or negative?
+
+5.  Same question for the yen ETF.  Japanese short-term rates have for a long time been well below US rates.  If the exchange rate never moves, do you do better or worse than simply leaving the money in a US money market fund?
+
+6.  You have just shown that two currencies with different interest rates cannot both be a fair bet at today's exchange rate.  Explain in a sentence or two why this means the *forward* exchange rate must differ from the spot rate.  We will put a number on this in TA 6.
