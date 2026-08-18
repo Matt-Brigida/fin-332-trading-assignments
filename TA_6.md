@@ -2,15 +2,17 @@
 
 Complete the following trades in your IB account and report your trade prices and times.  Also answer the questions below.  Upload your answers to the BB dropbox.  All futures contracts in this trading assignment can be found on the [CME website](https://www.cmegroup.com/).
 
-1.  Sell 3000 barrels of crude oil (West Texas Intermediate) for delivery in February of next year  How many contracts is this (and for what ticker)?  What is the delivery point?
+Note that delivery months differ from one commodity to the next, and most products do not list all twelve months.  Check the contract specifications on the CME website before you trade, and **state which contract month you used for each trade below**.
+
+1.  Sell 3000 barrels of crude oil (West Texas Intermediate) for delivery roughly six months from now.  How many contracts is this (and for what ticker)?  What is the delivery point?
 
 2.  Buy 2 SOFR futures contracts.  Will your contracts gain in value when SOFR rates increase or decrease?
 
-3.  Trade (buy or sell) Soybeans for delivery in May of next year.  How many bushels have you traded?  When is the last trading day?
+3.  Trade (buy or sell) Soybeans for delivery at least six months from now.  Soybeans are not listed for every month---which months are listed, and which did you choose?  How many bushels have you traded?  When is the last trading day for your contract?
 
-4.  Trade Copper for delivery in April of next year.  When you enter into the contract what is the open interest, and what does open interest mean?
+4.  Trade Copper for delivery at least three months from now.  Which copper delivery months carry the most volume and open interest, and how can you tell?  When you enter into the contract what is the open interest, and what does open interest mean?
 
-5.  Buy 4 December E-mini S&P 500 futures contracts.  What is the multiplier on each contract, and how much of the S&P 500 have you bought (in $)?
+5.  Buy 4 E-mini S&P 500 futures contracts for the next quarterly delivery month.  Which four months does this contract use each year?  What is the multiplier on each contract, and how much of the S&P 500 have you bought (in $)?
 
 6.  Buy 1 Euro FX futures contract for the next quarterly delivery month.  What is the contract size in euros, and what is the tick size?  What is the total dollar value of your position?
 
@@ -53,4 +55,4 @@ Suppose you are a US firm that expects to receive **1,000,000 euros** three mont
 
 
 <!-- ignore -->
-<!-- 5.  Sell 2 January 10-year Treasury note futures contracts.  For each contract, what is the contract size, what must be delivered, and what is the minimum tick size? -->
+<!-- 5.  Sell 2 10-year Treasury note futures contracts for the next quarterly delivery month.  For each contract, what is the contract size, what must be delivered, and what is the minimum tick size? -->
